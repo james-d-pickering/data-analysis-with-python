@@ -13,4 +13,4 @@ The contents of the folders are as follows:
 
 /tex_files/ - contains the source code for the main pdf document - don't worry about this.
 
-How to use: download the whole thing as a .zip file using the "clone or download" button. Then extract it to where you want to work at and start!
+How to use: download the whole thing as a .zip file using the "clone or download" button. Then extract it to where you want to work at and start by looking at the pdf file in the main folder.
